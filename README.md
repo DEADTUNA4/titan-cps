@@ -2,7 +2,7 @@
 
 **Titan Clicker Pro** is a high-performance CPS (Clicks Per Second) testing application built with Python and CustomTkinter. It features a modern, mobile-inspired UI and portable data management.
 
-[Live Web Demo](https://your-netlify-site-name.netlify.app)
+[Live Web Demo](https://titancps.netlify.app)
 
 ---
 
@@ -21,7 +21,7 @@
 3.  Double-click to launch. No installation required!
 
 ### Browser
-Simply visit the [Netlify link](https://your-netlify-site-name.netlify.app) to play the web version.
+Simply visit the [Netlify link](https://titancps.netlify.app) to play the web version.
 
 ---
 
