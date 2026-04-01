@@ -19,6 +19,7 @@
 1.  Download **`TitanClickerPro.exe`** from this repository or the website.
 2.  Move it anywhere (Desktop, Downloads, USB).
 3.  Double-click to launch. No installation required!
+5.  WE RECCOMEND TO PT IT IN THE DESKTOP FOLDER
 
 ### Browser
 Simply visit the [Netlify link](https://titancps.netlify.app) to play the web version.
